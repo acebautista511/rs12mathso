@@ -1,0 +1,727 @@
+@media screen and (max-width:1024px)  { 
+
+
+    
+   header {
+      width: 100%;
+   }
+    
+    .header-text-box h1 {
+      font-size: 2.7rem;
+      width: 100%;
+      padding-right: 20px;
+      margin: 0 auto;
+   
+    }
+    .btn-big {
+      font-size: 1.4rem;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 50px;
+      padding-right: 50px;
+      
+    }
+    .header-text{
+      font-size: 1.5rem ;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+    .grid-3-cols {
+        width: 100%;
+    }
+    .testimonial-section {
+        width: 100%;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+    section img {
+      border-radius: 30px;
+    }
+    div img {
+      border-radius: 30px;
+    }
+    .testimonial-section img {
+      border-radius: 30px;
+      width: 100%;
+      height: 200px;
+    }
+    footer {
+      text-align: center;
+    }
+    .testimonial-text {
+      text-align: center;
+      font-size: 1.9rem;
+      margin-top: 40px;
+     
+    }
+   .testimonial-author {
+      text-align: center;
+      font-size: 1.9rem;
+      margin-bottom: 40px;
+      margin-right: 50px;
+      margin-top: 40px;
+   }
+   .features-text {
+     font-size: 1.9rem;
+  
+     margin-top: 30px;
+     margin-bottom: 30px;
+   } 
+    
+   .features-tittle {
+      font-size: 2.5rem;
+   }
+   .grid-3-cols-1 {
+      flex-direction: column;
+   }
+   div figure img {
+      width: 100%; 
+   }
+   h5 {
+      margin-top: 40px;
+      margin-right: 40px;
+      margin-left: 20px;
+   }
+   header img {
+      margin-left: 40px;
+   }
+   h2 {
+      padding-top: 40px;
+      padding-bottom: 40px;
+   }
+   .testimonial-section h5 {
+      font-size: 2.5rem;
+   }
+   .grid-3-cols-2  {
+    flex-direction: column;
+    margin-right: 40px;
+   
+   }
+   .grid-3-cols-2 img {
+      height: 400px;
+      width: 100%;
+      margin: 0 auto;
+
+   }
+   .grid-3-cols{
+      flex-direction: column;
+   }
+   .grid-3-cols img {
+      height: 400px;
+   }
+   h4 {
+   margin-bottom: 60px;
+   }
+   h3 {
+      text-align: center;
+      font-size: 2.7rem;
+   }
+   .chair-details li  {
+      font-size: 1.9rem;
+      margin-top: 40px;
+      margin-left: 230px;
+   }
+   .chair-price {
+      font-size: 1.9rem;   
+      margin-left: 230px;
+      padding-top: 30px;
+   }
+   .btn--small {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 35px;
+      padding-right: 35px;
+      font-size: 2.0rem;
+   }
+}
+   
+   
+   @media screen and (max-width:700px)    {
+   
+      header {
+         flex-direction: column-reverse;
+         text-align: center;
+         margin-bottom: 60px;
+         width: 100%;
+      }
+      .header-text-box h1   {
+        padding-top: 40px;
+        width: 100%;
+        margin: 0 auto;
+        font-size: 4.2rem;
+        padding-bottom: 40px;
+      }
+      .header-text {
+         font-size: 2.7rem;
+         padding-bottom: 40px; 
+         }
+    header img {
+      width: 100%;
+      height: 500px;
+      background-color: green;
+      padding: 9px 9px;
+      margin: 0 auto; 
+    }
+    
+    
+    h2 {
+      font-size: 4.2rem;
+      margin-top: 70px;
+    }
+    .features-tittle {
+      font-size: 3.2rem;
+      margin-bottom: 50px;
+     margin-top: 50px;      
+    }
+    .features-text {
+      font-size: 2.4rem;
+    }
+    section h2{
+    text-align: center;
+    align-items: center;
+    }
+   .testimonial-box h5 {
+   text-align: center;
+   font-size: 3.4rem;
+   margin-bottom: 40px;
+  
+   }
+
+
+    footer {
+   font-size: 1.5rem;
+   text-align: center
+   }
+
+   
+
+   .grid-3-cols img {
+   width: 100%;
+   background-color: green;
+   padding: 5px 5px;
+   height: 500px;
+   
+   }
+
+
+     .header-text {
+   font-size: 2.7rem;
+   padding-bottom: 40px;
+      margin: 0 auto;
+   }
+    .btn-big {
+   font-size: 2.4rem;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.grid-3-cols-1{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+   text-align: center;
+}
+.grid-3-cols{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+   
+}
+.testimonial-text {
+   font-size: 2.7rem;
+   margin-bottom: 40px;
+}
+.testimonial-author {
+   font-size: 2.4rem;
+   margin-bottom: 40px;
+}
+h4 {
+   font-size: 4.2rem;
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
+.chair-box h3 {
+   font-size: 3.4rem;
+   margin-bottom: 20px;
+   text-align: center;
+
+
+
+
+  
+}
+.grid-3-cols-2{
+   display: flex;
+   flex-direction: column;
+  
+   width: 100%;
+}
+.grid-3-cols-2 img {
+   height: 300px;
+}
+.chair-details li  {
+   font-size: 1.9rem;
+   margin-top: 40px;
+   margin-left: 230px;
+}
+.chair-price {
+   font-size: 1.9rem;   
+   margin-left: 230px;
+   padding-top: 30px;
+}
+.btn--small {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 35px;
+   padding-right: 35px;
+   font-size: 2.0rem;
+}
+
+
+   
+}
+
+
+
+   
+   
+   
+
+@media screen and (min-width:320px)     {
+   
+   
+  
+  h2 {
+      text-align: center;
+      font-size: 30px;
+      margin-bottom: -40px;
+  }
+    div p  {
+      text-align: center;
+     
+  }
+
+  h4 {
+      text-align: center;
+      font-size: 30px;
+      margin-bottom: 20px;
+  }
+ 
+     
+  
+  #myTopnav {
+      background-color: #333;
+      overflow: hidden;
+      width: 100%;
+      line-height: 60px;
+    }
+    .topnav a {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+    }
+    .topnav .icon {
+      display: none;
+    }
+    .header-text {
+      text-align: center;
+    
+      margin-bottom: -90px;
+      font-size: 20px;
+    }
+  footer {
+      text-align: center;
+      font-size: 20px;
+      background-color: #333;
+      color: white;
+      margin-top: 40px;
+  }
+  .web-dev {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      
+      
+  }
+  .dev {
+      margin-top: 5px;
+  }
+  .web-dev i {
+      margin: 10px;
+      font-size: 20px;
+      
+      
+  }
+  .web-dev a {
+      text-decoration: none;
+      color: black;
+  }
+  .about h2 {
+      margin-top: 40px;
+  }
+   .features-text {
+   font-size: 25px; 
+  
+  }
+  .features-tittle {
+   font-size: 25px;
+  } 
+}
+@media screen and (max-width:370px)  {
+   
+   
+   h2 {
+      font-size: 2rem;
+   }
+  
+     div p  {
+       text-align: center;
+      
+   }
+ 
+   h4 {
+       text-align: center;
+       font-size: 20px;
+       margin-bottom: 20px;
+   }
+  
+      
+   
+   #myTopnav {
+       background-color: #333;
+       overflow: hidden;
+       width: 100%;
+       line-height: 60px;
+     }
+     .topnav a {
+       float: left;
+       display: block;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+     }
+     .topnav a:hover {
+       background-color: #ddd;
+       color: black;
+     }
+     .topnav a.active {
+       background-color: #04AA6D;
+       color: white;
+     }
+     .topnav .icon {
+       display: none;
+     }
+     .header-text {
+       text-align: center;
+     
+       margin-bottom: -90px;
+       font-size: 20px;
+     }
+   footer {
+       text-align: center;
+       font-size: 20px;
+       background-color: #333;
+       color: white;
+       margin-top: 40px;
+   }
+   .web-dev {
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       
+       
+   }
+   .dev {
+       margin-top: 5px;
+   }
+   .web-dev i {
+       margin: 10px;
+       font-size: 20px;
+       
+       
+   }
+   .web-dev a {
+       text-decoration: none;
+       color: black;
+   }
+  
+    .features-text {
+    font-size: 25px; 
+   
+   }
+   .features-tittle {
+    font-size: 25px;
+   } 
+ }
+@media screen and (min-width:360px)     {
+   
+   
+  
+   h2 {
+       text-align: center;
+       font-size: 35px;
+       margin-bottom: -40px;
+    
+   }
+     div p  {
+       text-align: center;
+      
+   }
+ 
+   h4 {
+       text-align: center;
+       font-size: 20px;
+       margin-bottom: 20px;
+   }
+  
+      
+   
+   #myTopnav {
+       background-color: #333;
+       overflow: hidden;
+       width: 100%;
+       line-height: 60px;
+     }
+     .topnav a {
+       float: left;
+       display: block;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+     }
+     .topnav a:hover {
+       background-color: #ddd;
+       color: black;
+     }
+     .topnav a.active {
+       background-color: #04AA6D;
+       color: white;
+     }
+     .topnav .icon {
+       display: none;
+     }
+     .header-text {
+       text-align: center;
+     
+       margin-bottom: -90px;
+       font-size: 20px;
+     }
+   footer {
+       text-align: center;
+       font-size: 20px;
+       background-color: #333;
+       color: white;
+       margin-top: 40px;
+   }
+   .web-dev {
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       
+       
+   }
+   .dev {
+       margin-top: 5px;
+   }
+   .web-dev i {
+       margin: 10px;
+       font-size: 20px;
+       
+       
+   }
+   .web-dev a {
+       text-decoration: none;
+       color: black;
+   }
+   .about h2 {
+       margin-top: 40px;
+   }
+    .features-text {
+    font-size: 25px; 
+   
+   }
+   .features-tittle {
+    font-size: 25px;
+   } 
+ }
+
+@media screen and  (min-width:624px) and (max-width:624px) {
+
+   header {
+      flex-direction: column-reverse;
+      text-align: center;
+      margin-bottom: 60px;
+      width: 100%;
+   }
+   .header-text-box h1   {
+     padding-top: 40px;
+     width: 650px;
+     margin: 0 auto;
+     font-size: 4.4rem;
+     padding-bottom: 40px;
+   }
+   .header-text {
+      font-size: 2.7rem;
+      padding-bottom: 40px;
+      
+   }
+   
+   
+   
+ header img {
+   width: 100%;
+   height: 500px;
+   background-color: green;
+   padding: 9px 9px;
+   margin: 0 auto;
+   
+ }
+  h2 {
+   text-align: center;
+   font-size: 4.2rem;
+   padding-bottom: 20px;
+   margin-top: 90px;
+}
+
+.testimonial-box h5 {
+text-align: center;
+font-size: 3.6rem;
+margin-bottom: 30px;
+margin-top: 30px;
+
+}
+.grid-3-cols {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.grid-3-cols-1{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+}
+.testimonial-text {
+   font-size: 2.7rem; 
+   margin-bottom: 30px;
+}
+.testimonial-section {
+align-items: center;
+margin-top: 90px;
+margin-bottom: 90px;
+}
+div img { 
+   width: 800px;
+   height: 600px;
+ }
+ .testimonial-author {
+   font-size: 2.9rem;
+   margin-bottom: 30px;
+ }
+ 
+ 
+ .features-tittle {
+   font-size: 3.8rem;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+ }
+ .features-text {
+   font-size: 2.7rem;
+   text-align: center;
+ }
+ 
+ 
+  
+
+ footer {
+   font-size: 1.9rem;
+ }
+.grid-3-cols img {
+   background-color: green;
+   padding: 9px 9px;
+   height: 500px;
+   
+}
+.btn-big {
+   font-size: 2.7rem;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   padding-left: 90px;
+   padding-right: 90px;
+   font-weight: 700;
+}
+div figure img {
+   width: 100%;
+}
+h4 {
+   font-size: 4.4rem;
+   padding-bottom: 40px;
+}
+h3 {
+   font-size: 3.8rem;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+.chair-price {
+   font-size: 2.7rem;
+   margin-top: 50px;
+ text-align: center;
+   margin-left: 50px;
+   
+}
+.btn--small {
+   padding-top: 15px;
+   padding-bottom: 15px;
+  padding-left: 40px;
+   padding-right: 40px;
+   font-weight: 700; 
+   font-size: 2.0rem;
+   margin-top: 30px;
+   
+  
+   text-align: center;
+   
+}
+
+  
+
+.grid-3-cols-2 img{
+   height: 500px;
+ 
+
+}
+.chair-details span {
+   font-size: 2.5rem;
+   padding-right: 100px;
+   
+}
+  .grid-3-cols-2 {
+   justify-content: center;
+   
+}
+
+   
+}
+
+
